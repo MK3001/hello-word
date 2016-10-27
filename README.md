@@ -1,2 +1,6 @@
 # hello-word
-Tutorial to githube - start
+
+Hi Everyone
+
+My name is Maiusz nad I strat programing
+
